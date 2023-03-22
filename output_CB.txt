@@ -1,0 +1,13 @@
+
+CB/NFR/datum afname monster: 06-03-2023/Hand/SedimentatieCB/NFR/datum afname monster: 06-03-2023/Hand/Sedimentatie
+1: Lysinibacillus species             1 KVE
+---
+CB/kweek/ABW/datum afname: 1-3-2023/mvk/contactCB/kweek/ABW/datum afname: 1-3-2023/mvk/contact
+1: Bacillus cereus          1 kve
+---
+SHU/ datum afname monster 03-03-2023 / Hand / sedimentatie / CB / datuSHU/ datum afname monster 03-03-2023 / Hand / sedimentatie / CB / datum opsturen 13-03-2023 / Kweek
+1: Kocuria rhizophila                 1 KVE                 2: Bacillus species                   50 KVE
+---
+CB/NFR/08-03-2023/Kweek/Hand/SedimentatieCB/NFR/08-03-2023/Kweek/Hand/Sedimentatie
+1: Gram positieve staaf, niet nader te identificeren                1 KVE
+---
